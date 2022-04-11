@@ -131,11 +131,11 @@ export default function Main() {
                     </div>
                     <div className="bodyContainers">
                         <div className="contTitle">
-                            <p><a href="http://lowermanhattandialysis.com">LMDC</a></p>
+                            <p><a href="https://goo.gl/maps/SDFN8KZq8fCPpbG58">Royzman & Poznyansky, DDS</a></p>
                         </div>
                         <div className="contBody">
                             <h3>
-                                Manhattan, NY
+                                Brooklyn, NY
                             </h3>
                         </div>
                     </div>
@@ -144,11 +144,11 @@ export default function Main() {
                 <div className="bigCont">
                     <div className="bodyContainers">
                         <div className="contTitle">
-                            <p><a href="https://goo.gl/maps/SDFN8KZq8fCPpbG58">Royzman & Poznyansky, DDS</a></p>
+                            <p><a href="http://lowermanhattandialysis.com">LMDC</a></p>
                         </div>
                         <div className="contBody">
                             <h3>
-                                Brooklyn, NY
+                                Manhattan, NY
                             </h3>
                         </div>
                     </div>

@@ -5,7 +5,7 @@ export default function Header() {
     return (
         <header>
             <nav className = "nav">
-                <h1 className = "title"><a href="./index.js" className="title">Barmaley Consulting</a></h1>
+                <h1 className = "title">Barmaley Consulting</h1>
                 <img src={logo} alt="logo" width="300px" className="imglogo" />
                 <ul className="nav-items">
                     <li className="leftList"><a href="#services" className="nav-items">SERVICES</a></li>

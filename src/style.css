@@ -182,3 +182,7 @@ a:hover {
 .spacer {
     margin-bottom: 50px;
 }
+
+.bigCont {
+    vertical-align: auto;
+}
