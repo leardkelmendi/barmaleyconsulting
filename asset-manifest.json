@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/barmaleyconsulting/static/css/main.1c2c7656.css",
-    "main.js": "/barmaleyconsulting/static/js/main.08347599.js",
+    "main.css": "/barmaleyconsulting/static/css/main.ae9e6489.css",
+    "main.js": "/barmaleyconsulting/static/js/main.b7ae0e8b.js",
     "static/media/nyc5.png": "/barmaleyconsulting/static/media/nyc5.276f1ee40deea4cfd14f.png",
     "static/media/camera.png": "/barmaleyconsulting/static/media/camera.b66b472f53ffd9c60fda.png",
     "static/media/data.png": "/barmaleyconsulting/static/media/data.2b825aa089bfb49336e2.png",
-    "static/media/desktop&server.png": "/barmaleyconsulting/static/media/desktop&server.df62a34d0a22197f87bc.png",
+    "static/media/desktop&server.png": "/barmaleyconsulting/static/media/desktop&server.48c6bf16251a49b26abb.png",
     "static/media/phone.png": "/barmaleyconsulting/static/media/phone.fecb9423dfb562135628.png",
     "index.html": "/barmaleyconsulting/index.html",
-    "main.1c2c7656.css.map": "/barmaleyconsulting/static/css/main.1c2c7656.css.map",
-    "main.08347599.js.map": "/barmaleyconsulting/static/js/main.08347599.js.map"
+    "main.ae9e6489.css.map": "/barmaleyconsulting/static/css/main.ae9e6489.css.map",
+    "main.b7ae0e8b.js.map": "/barmaleyconsulting/static/js/main.b7ae0e8b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c2c7656.css",
-    "static/js/main.08347599.js"
+    "static/css/main.ae9e6489.css",
+    "static/js/main.b7ae0e8b.js"
   ]
 }
