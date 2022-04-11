@@ -168,7 +168,7 @@ export default function Main() {
                         </div>
                         <div className="contBody">
                             <h3>
-                                Brooklyn, NY
+                                Manhattan, NY
                             </h3>
                         </div>
                     </div>
@@ -190,7 +190,7 @@ export default function Main() {
                         </div>
                         <div className="contBody">
                             <h3>
-                                Brooklyn, NY
+                                Manhattan, NY
                             </h3>
                         </div>
                     </div>
