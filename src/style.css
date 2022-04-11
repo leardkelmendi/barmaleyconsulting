@@ -13,7 +13,7 @@ body {
     font-size: 54px;
     margin-right: auto;
     padding-left: 10px;
-    padding-right: 55px;
+    padding-right: 17px;
 }
 
 .bodyContainers {
@@ -177,4 +177,8 @@ a:hover {
 
 #email {
     list-style-image: url('./images/email.png');
+}
+
+.spacer {
+    margin-bottom: 50px;
 }

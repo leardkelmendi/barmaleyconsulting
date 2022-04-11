@@ -102,9 +102,7 @@ export default function Main() {
                         </div>
                     </div>
                 </div>
-                <br></br>
-                <br></br>
-                <br></br>
+                <div className="spacer"></div>
                 <hr></hr>
 
                 <div className="bigContTitle">
@@ -262,21 +260,11 @@ export default function Main() {
                                 </li>
                             </ul>
                         </div>
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <br></br>
+                    <div className="spacer"></div>
+                    <div className="spacer"></div>
+                    <div className="spacer"></div>
+                    <div className="spacer"></div>
+                    <div className="spacer"></div>
                     </div>
                     <div className="bodyContainers">
                         <div className="contTitle">
