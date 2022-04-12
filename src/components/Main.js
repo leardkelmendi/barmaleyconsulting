@@ -272,7 +272,7 @@ export default function Main() {
                         </div>
                         <div className="contBody">
                             <h3 className="bodyBold">
-                                To set up an assessment, there are multiple commuication options available.
+                                To set up an assessment, there are multiple communication options available.
                                 Please leave a name, best method of contact and detailed inquiry.
                             </h3>
                             <ul className="bodyList">
