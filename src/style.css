@@ -179,6 +179,14 @@ a:hover {
     list-style-image: url('./images/email.png');
 }
 
+#form {
+    list-style-image: url('./images/form.png');
+}
+
 .spacer {
     margin-bottom: 50px;
+}
+
+.formBox {
+    width: 100%;
 }
