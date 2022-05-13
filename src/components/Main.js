@@ -1,4 +1,5 @@
 import React from "react"
+import ContactUs from "./contactForm"
 import deskserv from "../images/desktop&server.png"
 import camera from "../images/camera.png"
 import data from "../images/data.png"
@@ -281,6 +282,11 @@ export default function Main() {
                                 </li>
                                 <li id="email">
                                 <a href="mailto:barmaley75@gmail.com">barmaley75@gmail.com</a>
+                                </li>
+                                <li id="form">
+                                    <div>
+                                        {ContactUs()}
+                                    </div>
                                 </li>
                             </ul>
                         </div>
