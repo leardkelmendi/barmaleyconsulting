@@ -281,7 +281,7 @@ export default function Main() {
                                 <a href="tel:3472040737">(347) 204-0737</a>
                                 </li>
                                 <li id="email">
-                                <a href="mailto:barmaley75@gmail.com">barmaley75@gmail.com</a>
+                                <a href="mailto:alex@barmaley.com">alex@barmaley.com</a>
                                 </li>
                                 <li id="form">
                                     <div>
